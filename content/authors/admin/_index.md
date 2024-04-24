@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student at the Human-Centered Computing Systems Lab, Department of Computer Science and Engineering, Seoul National University, scince 2021.02. 
+I'm a PhD student at the Human-Centered Computing Systems Lab, Department of Computer Science and Engineering, Seoul National University, since 2021.02. 
 {style="text-align: justify;"}
