@@ -39,7 +39,7 @@ education:
       institution: Seoul National University
       year: 2021~
     - course: BSc in Computer Science Engineering
-      institution:Hanynag University
+      institution: Hanynag University
       year: 2021
 
 # Skills
