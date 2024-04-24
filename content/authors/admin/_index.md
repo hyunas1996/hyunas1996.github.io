@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student at the [Human-Centered Computing Systems Lab](https://hcs.snu.ac.kr/), Department of Computer Science and Engineering, [Seoul National University](https://en.snu.ac.kr/), since 2021.02. 
+I'm a PhD student at the [Human-Centered Computing Systems Lab](https://hcs.snu.ac.kr/), Department of Computer Science and Engineering, [Seoul National University](https://en.snu.ac.kr/), since 2021.02. Under the guidance of [Youngki Lee](https://youngkilee.blogspot.com/), my research focuses on new interaction design in Cross Reality systems based on context-aware computing. 
 {style="text-align: justify;"}
