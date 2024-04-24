@@ -33,13 +33,13 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
+        gradient_end: '#FF80ED'
         gradient_start: '#004ba0'
         text_color_light: true
   - block: about.biography
     id: about
     content:
-      title: '**Hi! I'm HyunA Seo**'
+      title: Hi! I'm HyunA Seo
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
