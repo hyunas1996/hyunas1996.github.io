@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi! I'm HyunA Seo
+      title: **Hi! I'm HyunA Seo**
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
