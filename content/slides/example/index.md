@@ -140,7 +140,7 @@ Customize the slide style and background
 
 ```markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
+{{</* slide background-color="#7828F5" */>}}
 {{</* slide class="my-style" */>}}
 ```
 
