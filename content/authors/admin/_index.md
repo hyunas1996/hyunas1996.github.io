@@ -1,13 +1,13 @@
 ---
 # Display name
-title: HyunA
+title: Hyun A Seo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hee-ya-na Suh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hyun A
+last_name: Seo
 
 # Status emoji
 status:
