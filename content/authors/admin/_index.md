@@ -93,9 +93,8 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/hyuna._.aaaaa?igsh=bHZxbzFiYWc2aW1u&utm_source=qr
-    label: Follow me on IG!
     display:
-      header: true
+      header: fakse
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=840J7DkAAAAJ&hl=en
