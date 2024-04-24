@@ -1,46 +1,50 @@
 ---
 # Display name
-title: Hyun A Seo
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Hee-ya-na Suh
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Hyun A
-last_name: Seo
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: 0
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Seoul National University
-    url: [https://www.stanford.edu/](https://www.snu.ac.kr/)
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cross Reality systems with context-aware computing, and human computer interaction design. 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Cross Reality System
-  - Human Computer Interaction Design 
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science Engineering
-      institution: Seoul National University 
-      year: 2021~
-    - course: BSc in Computer Science Engineering
-      institution: Hanynag University
-      year: 2021
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
