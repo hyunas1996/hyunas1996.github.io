@@ -3,7 +3,7 @@
 title: Hyun A Seo
 
 # Name pronunciation (optional)
-name_pronunciation: Hee-ya-na Suh
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Hyun A
@@ -25,18 +25,17 @@ organizations:
     url: https://www.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cross Reality systems and context-aware computing in the technical human computer interaction context. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cross Reality Systems
+  - Context-Aware Computing 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
