@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hyun A Seo
+title: HyunA Seo
 
 # Name pronunciation (optional)
 name_pronunciation:
